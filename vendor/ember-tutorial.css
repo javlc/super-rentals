@@ -318,7 +318,9 @@ p {
 }
 
 .tomster {
-    background: url(http://emberjs.com/images/tomsters/teaching.png);
+    /*background: url(http://emberjs.com/images/tomsters/teaching.png);*/
+    background: url(http://emberjs.com/images/tomsters/teaching-reverse-79f66d70.png);
+    /*background: url(http://www.emberjs.com.cn/images/tomsters/teaching.png);*/
     background-size: contain;
     background-repeat: no-repeat;
     height: 200px;
