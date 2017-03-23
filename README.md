@@ -1,3 +1,5 @@
+# This is my take at the emberjs tutorial, using v2.11.1
+
 # super-rentals
 
 This README outlines the details of collaborating on this Ember application.
